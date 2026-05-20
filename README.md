@@ -16,14 +16,8 @@ Algoritmo Genético
 Target‑Sistemas
  – Soluções de exercícios de lógica de programação da empresa Target.
 
-📌 Dica: você pode fixar no seu perfil apenas os projetos que mais representam suas habilidades. Capriche nos READMEs de cada um, incluindo descrição, instruções de uso e capturas de tela.
-
 📊 Estatísticas do GitHub
-<!-- Widgets de estatísticas gerados pelo GitHub Readme Stats --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SergioFilippin&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFilippin&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/> </p>
-📫 Como me encontrar
-
-
-
+<! Widgets de estatísticas gerados pelo GitHub Readme Stats --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SergioFilippin&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFilippin&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/> </p>
 
 ✨ Curiosidades
 Gosto de desafios de programação e hackathons.
