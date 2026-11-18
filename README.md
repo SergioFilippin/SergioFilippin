@@ -6,9 +6,9 @@ Trabalho com análise de sistemas e uso SQL para investigar ocorrências e enten
 
 ## Projetos
 
-- **[Cardápio Casa de Dentro](https://github.com/SergioFilippin/repo-cardapio)** — Cardápio digital com interface em React e TypeScript, API em Java e Spring Boot e banco PostgreSQL.
-- **[InStock](https://github.com/SergioFilippin/InStock)** — Sistema de cadastro de produtos e controle de estoque em C++.
-- **[Algoritmo genético](https://github.com/SergioFilippin/Agoritmo-Genetico.cpp)** — Implementação em C++ para otimização de funções matemáticas.
+- **Gaiadi** — Sistema de apoio ao acompanhamento de atividades e à organização de rotinas de atendimento.
+- **Multishine BI** — Projeto de inteligência de negócios voltado à visualização de dados e ao acompanhamento de indicadores em painéis.
+
 
 ## Tecnologias
 
